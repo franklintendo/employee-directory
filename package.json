@@ -1,0 +1,27 @@
+{
+  "name": "employee-directory",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "start-dev": "nodemon server.js && npm run-start client",
+    "start-client": "cd client && npm start",
+    "heroku-postbuild": "cd client && npm install && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franklintendo/employee-directory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franklintendo/employee-directory/issues"
+  },
+  "homepage": "https://github.com/franklintendo/employee-directory#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
