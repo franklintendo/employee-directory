@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "firstName": "Frank",
+    "lastName": "Moran",
+    "role": "Web Designer",
+    "department": "Development"
+  },
+  {
+    "id": 2,
+    "firstName": "Carol",
+    "lastName": "Turd",
+    "role": "Web Designer",
+    "department": "Development"
+  },
+  {
+    "id": 3,
+    "firstName": "Clam",
+    "lastName": "Jones",
+    "role": "Senior Web Developer",
+    "department": "Development"
+  },
+  {
+    "id": 4,
+    "firstName": "Samwell",
+    "lastName": "Skipple",
+    "role": "Salesperson",
+    "department": "Sales"
+  },
+  {
+    "id": 5,
+    "firstName": "Mackie",
+    "lastName": "Slims",
+    "role": "Sales Lead",
+    "department": "Sales"
+  },
+  {
+    "id": 6,
+    "firstName": "Jimothy",
+    "lastName": "Spapp",
+    "role": "Sales Manager",
+    "department": "Sales"
+  },
+  {
+    "id": 7,
+    "firstName": "Jamantha",
+    "lastName": "Plood",
+    "role": "Writer",
+    "department": "Editorial"
+  },
+  {
+    "id": 8,
+    "firstName": "Uriah",
+    "lastName": "Ipsen",
+    "role": "Editor",
+    "department": "Editorial"
+  },
+  {
+    "id": 9,
+    "firstName": "Deborah",
+    "lastName": "Jinkens",
+    "role": "Lead Editor",
+    "department": "Editorial"
+  },
+  {
+    "id": 10,
+    "firstName": "Joseph",
+    "lastName": "Nimm",
+    "role": "Writer",
+    "department": "Editorial"
+  },
+  {
+    "id": 11,
+    "firstName": "Herb",
+    "lastName": "Strep",
+    "role": "Accountant",
+    "department": "Accounting"
+  },
+  {
+    "id": 12,
+    "firstName": "Wanda",
+    "lastName": "Chid",
+    "role": "Senior Accountant",
+    "department": "Accounting"
+  }
+]
